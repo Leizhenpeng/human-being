@@ -8,9 +8,6 @@
 
 🎯 Realistic web automation that feels human
 
-> **Note**:
-> Replace `human-being`, `🎯 Realistic web automation that feels human` and `leizhenpeng` globally to use this template.
-
 ## License
 
 [MIT](./LICENSE) License © 2023-PRESENT [leizhenpeng](https://github.com/leizhenpeng)
