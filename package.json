@@ -1,7 +1,7 @@
 {
   "name": "human-being",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@9.1.1",
   "description": "🔄 Keep your background scripts running reliably in MV3 extensions.",
   "author": "leizhenpeng <laolei@forkway.cn>",
