@@ -1,7 +1,7 @@
 {
   "name": "human-being",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@9.1.1",
   "description": "🔄 Keep your background scripts running reliably in MV3 extensions.",
   "author": "leizhenpeng <laolei@forkway.cn>",
@@ -60,10 +60,14 @@
     "prepare": "simple-git-hooks",
     "replace": "jiti script/replace.ts"
   },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^2.18.1",
     "@antfu/ni": "^0.21.12",
     "@antfu/utils": "^0.7.8",
+    "@types/jquery": "^3.5.30",
     "@types/node": "^20.12.12",
     "bumpp": "^9.4.1",
     "consola": "^3.2.3",
