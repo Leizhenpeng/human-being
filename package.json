@@ -1,7 +1,7 @@
 {
   "name": "human-being",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "packageManager": "pnpm@9.1.1",
   "description": "🎯 Realistic web automation that feels human",
   "author": "leizhenpeng <laolei@forkway.cn>",
