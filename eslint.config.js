@@ -5,10 +5,12 @@ export default antfu(
   {
     ignores: [
       // eslint ignore globs here
+      '*.spec.ts',
     ],
   },
   {
     rules: {
+      'no-console': 'off',
       // overrides
     },
   },
